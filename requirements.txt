@@ -1,0 +1,16 @@
+# Core
+diffusers>=0.20.0
+transformers>=4.30.0
+accelerate>=0.20.0
+torch>=2.2.0
+safetensors
+xformers; platform_system != "Windows"
+ftfy
+tokenizers
+einops
+Pillow
+tqdm
+
+# Optional (for evaluation)
+clean-fid  # optional: for FID metric (requires tensorflow or torch backend); see docs
+scipy

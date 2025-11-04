@@ -1,0 +1,6 @@
+{
+    "model_id": "runwayml/stable-diffusion-v1-5",
+    "precision": "fp16",
+    "device": "cuda"
+  }
+  
