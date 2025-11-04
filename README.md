@@ -63,7 +63,7 @@ It serves as the implementation component of the research paper **“AI Image Ge
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/AI-Image-Generator.git
+   git clone https://github.com/Rohan-eng712/AI-Image-Generator.git
    cd AI-Image-Generator
 
 # 2. Create & activate virtual env
