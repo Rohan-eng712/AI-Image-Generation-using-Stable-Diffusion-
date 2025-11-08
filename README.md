@@ -1,10 +1,21 @@
 # AI-Image-Generation-using-Stable-Diffusion-
 This project implements AI-based image generation using the Stable Diffusion v1.5 model. It converts text prompts into realistic images through diffusion-based deep learning. Built with Python, Hugging Face Diffusers, and Gradio, it demonstrates practical application of generative AI research.
 
-### Author: Rohan Mahendra Ravidhone  
+### 👥 Authors
+
+- **Rohan Mahendra Ravidhone** – Project Lead / Implementation  
+- **Aniruddha Mokashi** – Research & Documentation  
+- **Nikhil Mohite** – Model Testing & Report Compilation  
+
 **Program:** Bachelor of Engineering in Artificial Intelligence and Data Science  
 
 ---
+
+### 🧭 Under the Guidance of
+**Prof. Smita Chunamari**  
+Department of Artificial Intelligence and Data Science  
+A. C. Patil College of Engineering, Mumbai University
+
 
 ## 📘 Project Overview
 
